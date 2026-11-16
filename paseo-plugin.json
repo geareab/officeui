@@ -1,0 +1,9 @@
+{
+  "id": "officeui",
+  "name": "Agent office",
+  "description": "A little office where your Paseo agents work, one room per machine, desks by seniority",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.15.4"
+  }
+}
